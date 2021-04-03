@@ -35,7 +35,7 @@ const vmaffioli = {
             "Node.js",
             "Java Spring",
         ],
-        databases: ["Mongo", "MySql", "SQLite"],
+        databases: ["Mongo", "MySql", "Real Time Database"],
         misc: ["Git", "Firebase", "Selenium", "Websphere", "AWB"]
     },
 };
