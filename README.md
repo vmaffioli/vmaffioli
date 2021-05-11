@@ -1,5 +1,4 @@
 <h1 align="center">VINÍCIUS MAFFIOLI</h1></center>
-<p align="center"><em>Java Developer at <a href="http://www.wipro.com">Wipro</a> 
 </em></p>
 
 <p align="center">
@@ -16,30 +15,4 @@
 </a>
 </p>
 
---- 
 
-```javascript 
-
-const vmaffioli = {
-    code: [
-        "Javascript",
-        "Typescript",
-        "Java"
-    ],
-    technologies: {
-        frontEnd:  [
-            "React.js",
-            "Bootstrap",
-        ],
-        backEnd: [
-            "Node.js",
-            "Java Spring",
-        ],
-        databases: ["Mongo", "MySql", "Real Time Database"],
-        misc: ["Git", "Firebase", "Selenium", "Websphere", "AWB"]
-    },
-};
-
-```
-
----
