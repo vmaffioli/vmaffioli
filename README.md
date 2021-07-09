@@ -1,6 +1,5 @@
-h3 align="center">Java/Javascript Developer</h3>
+<h3 align="center">Java/Javascript Developer</h3>
 
-28 SP/BR
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
