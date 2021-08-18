@@ -1,20 +1,16 @@
-<h3 align="center">Java/Javascript Developer</h3>
+<h3 align="center">Welcome! I'm Vinícius Maffioli</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinicius-maffioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius-maffioli" height="30" width="40" /></a>
-<a href="https://medium.com/@vmaffioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vmaffioli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vmaffioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vmaffioli" height="30" width="40" /></a>
-</p>
-
-
+<p align="center">
+  
 * 🧐   Interested in full stack. Recent focus on backend
 * 💼   Java Analyst Developer at Wipro Limited
 * 🎓   Studying Analysis and Systems Development
 * 🌱   Currently learning Java and Enterprise solutions
 * 📚   Reading more about MVC, DAO and SOLID concepts
 * ⛵   Starting with open source collaborations
+  
+  </p>
+
 
 
 <a href="https://github.com/vmaffioli/vmaffioli">
