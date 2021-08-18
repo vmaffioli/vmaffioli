@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-* 🧐   Interested in full stack. Recent focus on backend
+* 🧐   Interested in full stack. Recent focus on backend<br/>
 * 💼   Java Analyst Developer at Wipro Limited
 * 🎓   Studying Analysis and Systems Development
 * 🌱   Currently learning Java and Enterprise solutions
