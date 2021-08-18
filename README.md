@@ -2,12 +2,12 @@
 
 ---
 <p align="center">
-* 🧐   Interested in full stack. Recent focus on backend<br/>
-* 💼   Java Analyst Developer at Wipro Limited
-* 🎓   Studying Analysis and Systems Development
-* 🌱   Currently learning Java and Enterprise solutions
-* 📚   Reading more about MVC, DAO and SOLID concepts
-* ⛵   Starting with open source collaborations
+* 🧐   Interested in full stack. Recent focus on backend <br/>
+* 💼   Java Analyst Developer at Wipro Limited <br/>
+* 🎓   Studying Analysis and Systems Development <br/>
+* 🌱   Currently learning Java and Enterprise solutions <br/>
+* 📚   Reading more about MVC, DAO and SOLID concepts <br/>
+* ⛵   Starting with open source collaborations <br/>
 </p>  
 ---
 
