@@ -8,6 +8,15 @@
 <a href="https://www.hackerrank.com/vmaffioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vmaffioli" height="30" width="40" /></a>
 </p>
 
+
+* 🧐   Interested in full stack. Recent focus on backend
+* 💼   Java Analyst Developer at Wipro Limited
+* 🎓   Studying Analysis and Systems Development
+* 🌱   Currently learning Java and Enterprise solutions
+* 📚   Reading more about MVC, DAO and SOLID concepts
+* ⛵   Starting with open source collaborations
+
+
 <a href="https://github.com/vmaffioli/vmaffioli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaffioli&hide=css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
