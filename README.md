@@ -1,7 +1,7 @@
-<h3 align="center">Welcome! I'm Vinícius Maffioli</h3>
+# Welcome! I'm Vinícius Maffioli
 ---
 
-<p align="center">
+
   
 * 🧐   Interested in full stack. Recent focus on backend
 * 💼   Java Analyst Developer at Wipro Limited
@@ -10,7 +10,7 @@
 * 📚   Reading more about MVC, DAO and SOLID concepts
 * ⛵   Starting with open source collaborations
   
-  </p>
+
 
 
 
