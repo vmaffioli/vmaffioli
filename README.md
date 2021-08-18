@@ -1,4 +1,5 @@
 <h3 align="center">Welcome! I'm Vinícius Maffioli</h3>
+---
 
 <p align="center">
   
