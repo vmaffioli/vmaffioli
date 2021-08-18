@@ -9,6 +9,7 @@ Currently learning Java and Enterprise solutions <br/>
 Reading more about MVC, DAO and SOLID concepts <br/>
 Starting with open source collaborations <br/>
 </p>  
+
 ---
 
 
