@@ -9,7 +9,7 @@
 * 📚   Reading more about MVC, DAO and SOLID concepts
 * ⛵   Starting with open source collaborations
   
-
+---
 
 
 
