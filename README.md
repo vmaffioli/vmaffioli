@@ -1,5 +1,12 @@
 <h3 align="center"> Welcome! I'm Vinícius Maffioli</h3>
 <p align="center"><i>Looking for Java Challenges</i></p>
+<p align="center">
+  
+<p align="center">
+<a href= "https://github.com/vmaffioli/vmaffioli/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/vinicius-maffioli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://vmaffioli.website"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
 
 ---
 <p align="center">
@@ -24,13 +31,7 @@ Starting with open source collaborations <br/>
 ---
 
 
-<p align="center">
-  
-<p align="center">
-<a href= "https://github.com/vmaffioli/vmaffioli/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/vinicius-maffioli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://vmaffioli.website"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
+
 
 <p  align="center">
 <!--<img  src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
