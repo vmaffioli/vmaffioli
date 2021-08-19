@@ -1,5 +1,5 @@
 <h3 align="center">Vinícius Maffioli</h3>
-<p align="center"><i>Welcome!</i></p>
+
 <p align="center">
   
 <p align="center">
