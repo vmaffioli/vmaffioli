@@ -1,5 +1,5 @@
 <h3 align="center"> Welcome! I'm Vinícius Maffioli</h3>
-<p align="center"><i>Looking for Java Challenges</i></p>
+<p align="center"><i>Looking for new Challenges</i></p>
 <p align="center">
   
 <p align="center">
