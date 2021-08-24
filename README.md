@@ -8,7 +8,7 @@
 <a href= "https://vmaffioli.website"><img src="https://img.icons8.com/material-outlined/27/2bbc8a/geography.png"/></a>
 </p>
 <p align="center">
-  <a href="https://vmaffioli.github.io/vmaffioli_certwall/">What have I been studying? Check out on my certWALL</a>
+  <a href="https://vmaffioli.github.io/certWALL/">What have I been studying? Check out on my certWALL</a>
 </p>
 
 ---
