@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-Interested in full stack. Recent focus on backend <br/>
+Interested in Java and JS. Recent focus on Frontend<br/>
 Java Analyst Developer at Wipro Limited <br/>
 Studying Analysis and Systems Development <br/>
 Currently learning Java and Enterprise solutions <br/>
