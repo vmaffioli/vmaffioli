@@ -3,9 +3,9 @@
 <p align="center">
   
 <p align="center">
-<a href= "https://github.com/vmaffioli/vmaffioli/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/vinicius-maffioli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://vmaffioli.website"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/vmaffioli/vmaffioli/"><img src="https://img.icons8.com/material-outlined/27/2bbc8a/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/vinicius-maffioli/"><img src="https://img.icons8.com/material-outlined/30/2bbc8a/linkedin.png"/></a>
+<a href= "https://vmaffioli.website"><img src="https://img.icons8.com/material-outlined/27/2bbc8a/geography.png"/></a>
 </p>
 <p align="center">
   <a href="https://vmaffioli.github.io/certwall/">What have I been studying? Check out on my certWALL</a>
